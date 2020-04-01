@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">API Call Post</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet">Please check the Internet Connection</string>
+</resources>
